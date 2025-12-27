@@ -25,7 +25,7 @@ Predicting student exam scores using Machine Learning and NoSQL database managem
 - Zeyad Ayman (21-101144)
 - Nadeen Nadir (21-101167)
 
-## 🚀 How to Run
+## How to Run
 1. Install dependencies: `pip install -r requirements.txt`
 2. Open notebook in Google Colab or Jupyter
 3. Upload dataset
