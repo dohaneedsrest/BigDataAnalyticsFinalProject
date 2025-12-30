@@ -5,7 +5,7 @@ Predicting student exam scores using Machine Learning and NoSQL database managem
 
 ## Objectives
 - Perform comprehensive EDA on exam score dataset
-- Build regression models (Linear Regression, Random Forest)
+- Build regression model (Linear Regression)
 - Implement MongoDB for large-scale data storage
 - Evaluate models using RMSE, MAE, R²
 
@@ -16,14 +16,15 @@ Predicting student exam scores using Machine Learning and NoSQL database managem
 - Matplotlib, Seaborn
 
 ## Results
-- Linear Regression R²: 0.XXX
-- Random Forest R²: 0.XXX
-- Best Model: [Model Name]
+- MAE  : 8.70
+- MSE  : 117.06
+- RMSE : 10.82
+- R²   : 0.6708
 
-## Team Members
-- Doha Hafez (21-101136)
-- Zeyad Ayman (21-101144)
-- Nadeen Nadir (21-101167)
+## Team Members and contributions
+- Doha Hafez (21-101136): Model Build and Evaluation
+- Zeyad Ayman (21-101144): Preprocessing, Visualization, and Frontend
+- Nadeen Nadir (21-101167): MongoDB NoSQL 
 
 ## How to Run
 1. Install dependencies: `pip install -r requirements.txt`
