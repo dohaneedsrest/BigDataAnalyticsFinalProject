@@ -1,5 +1,8 @@
 Exam Score Prediction - CSE471 Big Data Final Project
 
+## Frontend Link
+Live Demo: https://bigdataanalyticsfinalproject-ieua9trjb6kqxcobkqqyqm.streamlit.app/
+
 ## Project Overview
 Predicting student exam scores using Machine Learning and NoSQL database management.
 
@@ -33,5 +36,3 @@ Predicting student exam scores using Machine Learning and NoSQL database managem
 4. Run all cells sequentially
 5. Update MongoDB connection string
 
-## Frontend Link
-https://bigdataanalyticsfinalproject-ieua9trjb6kqxcobkqqyqm.streamlit.app/
