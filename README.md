@@ -32,3 +32,6 @@ Predicting student exam scores using Machine Learning and NoSQL database managem
 3. Upload dataset
 4. Run all cells sequentially
 5. Update MongoDB connection string
+
+## Frontend Link
+https://bigdataanalyticsfinalproject-ieua9trjb6kqxcobkqqyqm.streamlit.app/
